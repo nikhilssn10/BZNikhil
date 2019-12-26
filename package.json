@@ -1,0 +1,23 @@
+{
+  "name": "bznikhil",
+  "version": "1.0.0",
+  "description": "MEAN FULL Stack Dev Nikhil Satya Being Zero",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikhilssn10/BZNikhil.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikhilssn10/BZNikhil/issues"
+  },
+  "homepage": "https://github.com/nikhilssn10/BZNikhil#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
